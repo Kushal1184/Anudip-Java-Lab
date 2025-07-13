@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SimpleInterest {
+public class Week_2_Session_1_Lab_SimpleInterest {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
