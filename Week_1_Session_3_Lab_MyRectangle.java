@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MyRectangle {
+public class MWeek_1_Session_3_Lab_MyRectangle {
     // Attributes
     private int length;
     private int width;
