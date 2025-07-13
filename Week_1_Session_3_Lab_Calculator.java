@@ -1,4 +1,4 @@
-public class Calculator {
+public class Week_1_Session_3_Lab_Calculator {
 
     // Method 1: Adds two integers
     public int add(int a, int b) {
