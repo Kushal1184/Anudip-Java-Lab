@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StudentMarks {
+public class Week_2_Session_1_Lab_StudentMarks {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
