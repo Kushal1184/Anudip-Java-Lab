@@ -1,8 +1,6 @@
-// Car.java
-
 import java.util.Scanner;
 
-public class Car {
+public class Week_1_Session_3_Lab_Car {
     private String make;
     private String model;
     private short year;
